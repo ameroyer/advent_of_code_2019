@@ -67,5 +67,5 @@ People use them as a speed contest, interview prep, company training, university
 
 **Past editions**
 
- * [Advent of Code 2019 (Python)](https://github.com/ameroyer/advent_of_code_2018)
+ * [Advent of Code 2018 (Python)](https://github.com/ameroyer/advent_of_code_2018)
  * [Advent of Code 2017 (OCaml)](https://github.com/ameroyer/advent_of_code_2017)
