@@ -1,6 +1,6 @@
-# Advent of Code 2019  ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/ameroyer/advent_of_code_2018.svg) 
+# Advent of Code 2019  ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/ameroyer/advent_of_code_2019.svg) 
 
-My Python solution to Advent of Code 2018. Each day is in a separate notebook for easy vizualisation. 
+My Python solution to Advent of Code 2019. Each day is in a separate notebook for easy vizualisation. 
 
 > **Advent of Code** is an Advent calendar of **small programming puzzles** for a variety of skill sets and skill levels that can be solved in any programming language you like.
 People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other
