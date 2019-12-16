@@ -18,13 +18,13 @@ People use them as a speed contest, interview prep, company training, university
 <li> [ ] 🎁 <a href="https://github.com/ameroyer/advent_of_code_2019/blob/master/day02.ipynb">Day 2</a>
 <li> [X] 🎄 <a href="https://github.com/ameroyer/advent_of_code_2019/blob/master/day03.ipynb">Day 3</a>
 <li> [X] 🌠 <a href="https://github.com/ameroyer/advent_of_code_2019/blob/master/day04.ipynb">Day 4</a>
-<li> [ ] 🍰 <a href="https://github.com/ameroyer/advent_of_code_2019/blob/master/day05.ipynb">Day 5</a>
+<li> [X] 🍰 <a href="https://github.com/ameroyer/advent_of_code_2019/blob/master/day05.ipynb">Day 5</a>
 </ul>
 </td>
 
 <td>
 <ul>
-<li> [ ] ☃️ <a href="https://github.com/ameroyer/advent_of_code_2019/blob/master/day06.ipynb">Day 6</a>
+<li> [X] ☃️ <a href="https://github.com/ameroyer/advent_of_code_2019/blob/master/day06.ipynb">Day 6</a>
 <li> [ ] ❄️ <a href="https://github.com/ameroyer/advent_of_code_2019/blob/master/day07.ipynb">Day 7</a>
 <li> [ ] ✨ <a href="https://github.com/ameroyer/advent_of_code_2019/blob/master/day08.ipynb">Day 8</a>
 <li> [ ] 💗 <a href="https://github.com/ameroyer/advent_of_code_2019/blob/master/day09.ipynb">Day 9</a>
